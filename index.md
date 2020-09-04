@@ -8,6 +8,7 @@
 
 * Birth		12.01.1976
 * Phone:		+380688062252
+* email      [shposhnikoff@gmail.com]
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 
 
