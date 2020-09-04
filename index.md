@@ -159,7 +159,7 @@ All this infrastructure are developed to use in separate environments, so, to pr
   * PXE kickstarting of CentOS/Ubuntu servers
 
 
-### IXS company 
+### IXC company 
 #### Chief networking engineer
 ######  January 2009 - January 2011
  
