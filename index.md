@@ -210,3 +210,14 @@ http://crimea.ukrtelecom.ua
 
 OTHER
   Married, ready for business trips.
+
+Also, i have a HAM radio licence in Ukraine - UT3UDX
+and have a technician expertise in:
+
+* DMR
+* Hot Spots
+* Duplexers
+* SVXLink
+* Repeater Builds
+
+
