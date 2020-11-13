@@ -10,6 +10,7 @@
 * Phone:		+380688062252
 * email      [shposhnikoff@gmail.com]
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
+* Ham callsign UT3UDX
 
 
 ## Education
