@@ -1,10 +1,13 @@
 
 # Max I. Shaposhnikov
 
+<img src="UT3UDX.jpg" width="250" height="250"/>
+
 ### Senior Systems Engineer, 
 ### Build,Release and Configuration Manager
 
 #### Kiev,Ukraine
+
 
 * Birth		12.01.1976
 * Phone:		+380688062252
