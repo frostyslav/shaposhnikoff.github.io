@@ -8,7 +8,7 @@
 
 * Birth		12.01.1976
 * Phone:		+380688062252
-* email      [shposhnikoff@gmail.com]
+* email      [shaposhnikoff@gmail.com]
 * telegram		[shaposhnikoff](https://t.me/shaposhnikoff)
 * Amateur radio callsign [UT3UDX](https://www.qrz.com/db/UT3UDX)
 
