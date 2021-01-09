@@ -226,7 +226,7 @@ http://crimea.ukrtelecom.ua
 OTHER
   Married, ready for business trips.
 
-Hobby 
+# Hobby 
 
 programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (based on Tasmota / ESPhome),
 
