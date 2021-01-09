@@ -223,7 +223,8 @@ http://crimea.ukrtelecom.ua
 
 
 
-OTHER
+## Other
+
   Married, ready for business trips.
 
 # Hobby 
