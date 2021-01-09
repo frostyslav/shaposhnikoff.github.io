@@ -83,18 +83,30 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 ######  Release engineer                                                                                                  
 Main responsibilities on the project 
 
-   * Making sure thats the rapid/pantheon is producing releasable candidates.
-      If not - tracking down whiy isn't and resolve it.
-   * Be ready to verifing and test releases created by pantheon. 
-   * Assisting oncall SRE with prod if asked.
-   * Be ready to rollout, rollback, and other types of duties by request.
-   * Verifing blessed release and push additional candidates to build.
-   * Keep tracking of the progress on manual tests, resolve it if needed.
-   * Always be release ready.
+   * Main responsibilities ( operational part )  on the project
+   * Making sure that's the rapid/pantheon is producing releasable candidates. 
+   * Triage and resolve release issues
+   * Develop, vetirify, test and automate Pantheon releases
+   * Oncall prod SRE
+   * Rollout, rollback of releases and other release engineering duties 
+   * Verifying blessed release and push additional candidates to build
+   * Keep tracking of the progress on manual tests, resolve it if needed
+   * Always be release ready
+
+Development part of activities on the project  
+
+   * Develop release automation code
+   * Code reviews of team members work
+   * Work with the SRE  and development team to design and develop scripts to operate Deployment process
+   * Review and provide feedback on technical details of developers team
+   * Assist Principal Engineers  with project scope
+   * Provide maintenance of Application Lifecycle Management ( full scope of tasks, starting from developing  custom scripts which monitor count of open bugs and issues and ending develop  scripts to send custom notifications to developers, which bugs are expired and block project release processing ) 
+
+
 
  
 ######  Dec,2018 - Dec 2019 
-######  IOT && ECS project for one of our customers
+######  IOT && ECS project for Jabil company
 
 
 Main responsibilities on the project 
@@ -214,7 +226,22 @@ http://crimea.ukrtelecom.ua
 OTHER
   Married, ready for business trips.
 
-Also, i have a HAM radio licence in Ukraine - UT3UDX
+Hobby 
+
+programming IOT, ESP32 / ESP8266, creating custom firmware for these boards (based on Tasmota / ESPhome),
+
+  * I develop from scratch (and update from time to time) the IOT infrastructure of my Smart Home, 
+  * Create and develop Smarthome Core configurations (HomeAssistant/Mosquitto MQTT broker, Prometheus/Grafana) 
+  * Develop ( and update )  SmartHome software ( mainly OTA ) configurations for various devices 
+    * Tuya smart plugs
+    * Sonoff switches 
+    * RTMP security cameras
+    * wide scope of humidity/temperature/water( and air) pressure /current/voltage/power consumption sensors) 
+
+Making software support of monitoring / checking / load balancing internal infrastructure to perform best practices of IOT 
+
+
+Also, i have a HAM radio licence in Ukraine - callsing UT3UDX
 and have a technician expertise in:
 
 * DMR
