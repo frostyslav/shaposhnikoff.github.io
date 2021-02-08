@@ -253,5 +253,5 @@ and have a technician expertise in:
 
 and also i maintain the free repo of Brandmeister Digital contacts in CSV format
 
-[http://brandmeister-digital-contacts.shaposhnikoff.info](http://brandmeister-digital-contacts.shaposhnikoff.info)
+[http://bm-digital-contacts.shaposhnikoff.info](http://bm-digital-contacts.shaposhnikoff.info)
 
