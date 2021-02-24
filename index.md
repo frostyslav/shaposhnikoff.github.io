@@ -78,7 +78,7 @@ Detailed technical knowledge and hands-on experience of Build Engineering, Confi
 ### Grid Dynamics 
 #### Senior Systems Engineer
 
-######  Dec , 2019 - Now
+######  Dec , 2020 - Now
 ######  Google Cloud Engine - Frontend ( Pantheon project )
 ######  Release engineer                                                                                                  
 Main responsibilities on the project 
@@ -105,7 +105,7 @@ Development part of activities on the project
 
 
  
-######  Dec,2018 - Dec 2019 
+######  Dec,2018 - Dec 2020 
 ######  IOT && ECS project for Jabil company
 
 
